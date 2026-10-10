@@ -10,3 +10,5 @@ Release/
 x64/
 x86/
 out/
+
+*pyproj
