@@ -1,0 +1,20 @@
+{
+  "pipeline": "p1",
+  "gsd_m": 0.3,
+  "roi": null,
+  "seed": 42,
+  "threshold": "auto",
+  "eq_mode": "auto",
+  "eq_strength": 0.5,
+  "contrast_threshold": 50.0,
+  "filter_size": 5,
+  "min_class_gap": 0.15,
+  "fallback_threshold": 0.1,
+  "degradation": "none",
+  "haze_transmission": 0.6,
+  "haze_airlight": 200,
+  "noise_sigma": 15.0,
+  "salt_pepper_amount": 0.05,
+  "reference_masks_dir": null,
+  "save_intermediates": true
+}
